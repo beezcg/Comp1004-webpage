@@ -1,0 +1,23 @@
+body{
+background-color: #fdfdfd;
+color: #000000;
+text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #a5a5a5;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #ffffff;
+}
